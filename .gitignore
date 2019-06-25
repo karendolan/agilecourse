@@ -1,0 +1,8 @@
+# Ignore Mac OS X artifacts
+.DS_Store
+
+# Ignore Idea artifacts
+.idea
+*.iml
+out
+
